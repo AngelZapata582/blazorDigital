@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
   
   <PropertyGroup>
+    <PublishSingleFile>false</PublishSingleFile>
     <PublishTrimmed>false</PublishTrimmed>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
